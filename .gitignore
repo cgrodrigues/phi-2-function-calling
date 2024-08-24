@@ -16,6 +16,10 @@ log/
 
 data/
 
+test/
+
+back/
+
 # Distribution / packaging
 .Python
 build/
