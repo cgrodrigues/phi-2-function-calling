@@ -1,5 +1,5 @@
 
-# Summary for `phi-2-function-calling´ Repository
+# phi-2-function-calling
 
 This repository, `phi-2-function-calling´, contains code and resources for fine-tuning the Phi-2 small language model to perform function-calling tasks. The Phi-2 model, developed by Microsoft Research, is a compact language model designed for reasoning and understanding language. By applying fine-tuning techniques like Quantized Low-Rank Adaptation (QLoRA), this project demonstrates how to efficiently adapt Phi-2 to execute specific functions based on user queries, making it capable of acting as an intelligent assistant on low-power devices.
 
